@@ -1,5 +1,5 @@
 import tensorflow as tf
-import first_own as gym
+from oldMethod import first_own as gym
 import numpy as np
 
 # Same as 05 file, just no training, just loads the pre-trained model.

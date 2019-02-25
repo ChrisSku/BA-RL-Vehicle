@@ -1,5 +1,5 @@
 import tensorflow as tf
-import  first_own as envi
+from oldMethod import first_own as envi
 import numpy as np
 ###############################################
 ######## PART ONE: NETWORK VARIABLES #########
